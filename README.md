@@ -1,2 +1,0 @@
-# Udacity-projects
-android applications
