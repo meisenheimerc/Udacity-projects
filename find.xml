@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\chris\Desktop\ud839_Miwok-Starter-code\app\src\main\res'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\chris\Desktop\ud839_Miwok-Starter-code\app\src\main\res'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\chris\Desktop\ud839_Miwok-Starter-code\app\src\main\res'" />
+    <option name="customScope" value="Project 'ud839_Miwok-Starter-code'" />
+    <option name="defaultScopeName" value="Project 'ud839_Miwok-Starter-code'" />
+    <option name="SEARCH_SCOPE" value="Project 'ud839_Miwok-Starter-code'" />
   </component>
 </application>
