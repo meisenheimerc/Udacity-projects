@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[app] - ...\app'" />
-    <option name="defaultScopeName" value="Directory '[app] - ...\app'" />
-    <option name="SEARCH_SCOPE" value="Directory '[app] - ...\app'" />
+    <option name="customScope" value="Project 'ud845-Pets-starting-point'" />
+    <option name="defaultScopeName" value="Project 'ud845-Pets-starting-point'" />
+    <option name="SEARCH_SCOPE" value="Project 'ud845-Pets-starting-point'" />
   </component>
 </application>
